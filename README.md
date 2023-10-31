@@ -1,7 +1,7 @@
 # Actividad1-TC1033-A01711235
 
 ## Programa 1
-![image](https://github.com/KIKW12/Actividad1-TC1033-A01711235/assets/142268928/df3cba05-ebb0-4053-a792-745fd6a47d92)
+![image](https://github.com/KIKW12/Actividad1-TC1033-A01711235/assets/142268928/6b9b00b4-ac73-46c9-a002-33ef4addf0ea)
 
 ## Programa 2
 ![image](https://github.com/KIKW12/Actividad1-TC1033-A01711235/assets/142268928/0f1c21ba-cd37-4af2-9680-3a1fbccfe763)
