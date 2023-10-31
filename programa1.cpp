@@ -12,7 +12,7 @@ cin >> vCubo;
 
 lado = pow(vCubo,1/3.0f);
 
-cout << "El lado del cubo de volumen " << vCubo <<"cm^3" << " es " << lado << "cm";
+cout << fixed << setprecision(2) << "El lado del cubo de volumen " << vCubo <<"cm^3" << " es " << lado << "cm";
 
     return 0;
 }
